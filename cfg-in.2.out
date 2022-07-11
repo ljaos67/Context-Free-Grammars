@@ -1,0 +1,15 @@
+S aSa|aSb|bSa|bSb|a
+a accepted
+b rejected
+aa accepted
+ab rejected
+ba rejected
+bb rejected
+aaa accepted
+aab rejected
+aba rejected
+abb rejected
+baa rejected
+bab rejected
+bba rejected
+bbb rejected
